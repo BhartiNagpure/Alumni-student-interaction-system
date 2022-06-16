@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Alumni-student-interaction-system/static/css/main.852aaba6.css",
+    "main.js": "/Alumni-student-interaction-system/static/js/main.b859584f.js",
+    "static/js/787.d409cb80.chunk.js": "/Alumni-student-interaction-system/static/js/787.d409cb80.chunk.js",
+    "static/media/Interaction.png": "/Alumni-student-interaction-system/static/media/Interaction.383f650599d0e0686d44.png",
+    "index.html": "/Alumni-student-interaction-system/index.html",
+    "main.852aaba6.css.map": "/Alumni-student-interaction-system/static/css/main.852aaba6.css.map",
+    "main.b859584f.js.map": "/Alumni-student-interaction-system/static/js/main.b859584f.js.map",
+    "787.d409cb80.chunk.js.map": "/Alumni-student-interaction-system/static/js/787.d409cb80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.852aaba6.css",
+    "static/js/main.b859584f.js"
+  ]
+}
